@@ -7,7 +7,7 @@ Where to find your local Stick Fight Maps: `C:\Users\<username>\AppData\LocalLow
 
 Where to find your online Stick Fight Maps: `C:\Program Files (x86)\Steam\steamapps\Workshop\Content\674940`
 
-##### How to use Stick Fight Map Unpacker (SFMU)
+### How to use Stick Fight Map Unpacker (SFMU)
 Using SFMU is actually really easy.
 1. Go to the releases tab
 2. Download the latest release zip
