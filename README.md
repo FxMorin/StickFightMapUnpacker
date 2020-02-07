@@ -4,6 +4,7 @@ A map unpacker/packer tool for Stick Fight: The Game. Allows you to unpack the m
 File locations may differ!
 
 Where to find your local Stick Fight Maps: `C:\Users\<username>\AppData\LocalLow\Landfall West\Stick Fight_ The Game\CustomLevels`
+
 Where to find your online Stick Fight Maps: `C:\Program Files (x86)\Steam\steamapps\Workshop\Content\674940`
 
 ##### How to use Stick Fight Map Unpacker (SFMU)
