@@ -22,6 +22,10 @@ Use a .bin as your input & a .json as your output to unpack the .bin into the .j
 Use a .json as your input & a .bin as your output to pack the .json into the .bin file
 
 
+
+
 Enjoy!
+
 Need more help: https://discord.gg/rcTjvxq/
+
 Watch my videos: https://youtube.com/c/fx-modding/
