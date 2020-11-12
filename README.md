@@ -22,6 +22,7 @@ Use a .bin as your input & a .json as your output to unpack the .bin into the .j
 Use a .json as your input & a .bin as your output to pack the .json into the .bin file
 
 
+Technically speaking this is not exactly an unpacker. The Stick Fight saves are not stored in JSON, they are stored in serialized C# objects. This tool unserializes them back into C# objects (classes) then uses Newtonsoft JS to convert the classes into JSON. The process is then reversed to save ;)
 
 
 Enjoy!
